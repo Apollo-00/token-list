@@ -11270,7 +11270,9 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYvGwtPx6Nw4YUVVwqx7qh657EcdxBSfE8JcaPmWWa6E/logo.png",
       "tags": [
         "utility-token"
-      ],
+      ]
+    },
+    {
       "address": "Djoz8btdR7p6xWHoVtPYF3zyN9LU5BBfMoDk4HczSDqc",
       "symbol": "AUSS",
       "name": "Ausshole",
